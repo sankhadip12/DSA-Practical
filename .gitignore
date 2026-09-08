@@ -1,0 +1,16 @@
+# C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Temporary files
+*.tmp
+*.temp
