@@ -24,6 +24,16 @@ programs implemented in C++.
 - Recursive function
 - Minimum number of disk movements
 
+### 4. Linked List
+- Singly Linked List
+- Insert at Beginning
+- Insert at End
+- Insert at Position
+- Delete by Student ID
+- Search Student
+- Display Records
+- Count Students
+
 ## Language
 
 C++
