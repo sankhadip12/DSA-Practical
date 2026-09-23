@@ -34,6 +34,19 @@ programs implemented in C++.
 - Display Records
 - Count Students
 
+### 5. Stack Using Linked List
+- Push
+- Pop
+- Peek
+- Display
+- Browser Back History
+
+### 6. Queue Using Linked List
+- Enqueue
+- Dequeue
+- Display
+- Hospital Patient Management
+
 ## Language
 
 C++
