@@ -35,17 +35,33 @@ programs implemented in C++.
 - Count Students
 
 ### 5. Stack Using Linked List
-- Push
-- Pop
-- Peek
-- Display
+- Visit a New Webpage
+- Go Back to Previous Webpage
+- View Current Webpage
+- Display All Visited Webpages
 - Browser Back History
 
 ### 6. Queue Using Linked List
-- Enqueue
-- Dequeue
-- Display
+- Add Patient to Queue
+- Serve Next Patient
+- Display All Waiting Patients
 - Hospital Patient Management
+
+### 7. Doubly Linked List
+- Add Member
+- Remove Member
+- Search Member
+- Display Driving Rotation
+- Assign Next Driver
+- Bidirectional Traversal using `prev` and `next`
+
+### 8. Circular Linked List
+- Add Member
+- Remove Member
+- Search Member
+- Display Driving Rotation
+- Assign Next Driver
+- Circular Traversal using `next`
 
 ## Language
 
